@@ -1,0 +1,18 @@
+.test li a:hover{
+    background-color: red;
+    color: white;
+}
+.dropdown-hover:hover .dropdown-menu{
+    display: block;
+}
+.h-500{
+    height: 500px;
+}
+.my-caption{
+    background-color: rgba(0,0,0,0.5);
+    bottom:100px
+}
+.my-caption2{
+    background-color: rgba(0,0,0,0.5);
+    bottom:100px
+}
